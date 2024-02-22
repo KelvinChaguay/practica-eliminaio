@@ -1,0 +1,1 @@
+print("3r Archivo como estrella tercera estrella")
